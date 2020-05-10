@@ -5,9 +5,6 @@ def display_rainbow(colors)
 end
 display_rainbow(colors)
 
-#colors = "R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{colors[4]}, I: #{colors[5]}, V: #{colors[6]}"
-colors = 'R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{colors[4]}, I: #{colors[5]}, V: #{colors[6]}"
-'def display_rainbow(colors)
-  puts "the colors of the rainbow is #{colors}"
-end
+colors = "R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{colors[4]}, I: #{colors[5]}, V: #{colors[6]}"
+
 display_rainbow(colors)
